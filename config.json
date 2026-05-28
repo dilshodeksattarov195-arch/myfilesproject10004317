@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authsonnect",
+        "uuid": 20518701,
+        "checksum": "tm7xla"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
